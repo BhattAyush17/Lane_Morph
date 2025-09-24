@@ -1,6 +1,7 @@
 # Lane Morph - Advanced Lane Detection System
 
-Lane Detection [![Watch the video](https://img.youtube.com/vi/tYuC7CDGDyc/hqdefault.jpg)](https://youtu.be/tYuC7CDGDyc?si=PUQOaQ19TMdm-i1x)
+Lane Detection 
+[![Watch the video](https://img.youtube.com/vi/tYuC7CDGDyc/hqdefault.jpg)](https://youtu.be/tYuC7CDGDyc?si=PUQOaQ19TMdm-i1x)
 
 An advanced lane detection system that uses computer vision techniques to identify lane boundaries in road videos and images. The system calculates lane curvature, vehicle position, and provides visual feedback.
 
@@ -13,6 +14,9 @@ An advanced lane detection system that uses computer vision techniques to identi
 - Radius of curvature calculation and vehicle position estimation
 - Real-time visualization with metrics overlay
 - Support for both image and video processing
+
+## Examples
+<img width="1725" height="843" alt="image" src="https://github.com/user-attachments/assets/f077e798-cdf7-4cde-98cf-75113b593530" />
 
 ## Installation
 
